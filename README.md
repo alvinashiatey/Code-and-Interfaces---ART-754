@@ -35,7 +35,7 @@ The prompt for this course requires students to complicate an existing tool by e
 
 ## Readings
 
-Weekly assigned readings and participation in group discussions are required. Please refer to the schedule for more details.
+Weekly assigned readings and participation in group discussions are required. Please refer to the schedule for more details. All readings and references will be made available on the course [are.na channel](https://are.na/alvin-ashiatey/art-754-code-and-interfaces-references-reading-materials).
 
 
 ## Project
