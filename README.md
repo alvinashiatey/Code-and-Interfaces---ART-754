@@ -78,4 +78,3 @@ If you must miss a class, please email me in advance and include Siri in the cor
 ## Credits
 
 This course is heavily inspired and influenced by courses taught by Mindy Seu (On-gathering), Ayham Ghraowi (Fictive Interfaces), and Rosa McElheny (Software for people). A big thank you to Avery Youngblood for all the feedback while developing this syllabus and Siri Lee for being the TA for this class.
-
