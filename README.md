@@ -69,11 +69,11 @@ If you must miss a class, please email me in advance and include Siri in the cor
 
 ## Workshops
 
-- [Adobe Scripting](https://www.indesignjs.de/extendscriptAPI/indesign-latest/#about.html)
-- [DrawBot](https://www.drawbot.com/)
-- [Chrome Extensions](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-- [Web Scraping](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Adobe scripting](./Workshops/Adobe%20scripting/README.md)
+- [DrawBot](./Workshops/DrawBot/README.md)
+- [Chrome Extensions](./Workshops/Chrome%20Extensions/README.md)
+- [ComfyUI](./Workshops/ComfyUI/README.md)
+- [Web Scraping](./Workshops/Web%20Scraping/README.md)
 
 ## Credits
 
