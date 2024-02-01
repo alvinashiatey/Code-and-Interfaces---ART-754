@@ -68,7 +68,7 @@ If you must miss a class, please email me in advance and include Siri in the cor
 | 14 | 5/2  | <ul><li>Final Critique</li><li>Final Documentation Due</li></ul>                                                                                                                                    |                                                                                                                                                                                              |
 
 ## Workshops
-- [Terminal/Shell Scripting](./Workshops/Terminal/README.md)
+- [Terminal/Shell Scripting](./Workshops/Terminal/README.md) - 01.25.2023
 - [Adobe scripting](./Workshops/Adobe%20scripting/README.md)
 - [DrawBot](./Workshops/DrawBot/README.md)
 - [Chrome Extensions](./Workshops/Chrome%20Extensions/README.md)
