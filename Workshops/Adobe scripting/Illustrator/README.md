@@ -8,6 +8,7 @@ Let's start with a simple script that alerts "Hello World" when run.
 
 ```javascript
 alert("Hello World");
+
 ```
 
 Now let's try a more complex script that creates a new document and adds a rectangle to it.

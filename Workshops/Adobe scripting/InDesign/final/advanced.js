@@ -1,4 +1,6 @@
+#include "lib.js"
 
+yell("Hello World");
 var hex = [
     "#FFC600",
     "#914E72",

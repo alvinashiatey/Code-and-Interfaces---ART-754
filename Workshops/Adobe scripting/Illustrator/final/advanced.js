@@ -96,8 +96,8 @@ function addCenteredTextAtBottom(textContent) {
 }
 
 
-var rows = 4;
-var cols = 3;
+var rows = 8;
+var cols = 7;
 
 if (app.documents.length > 0) {
     placeImagesInGrid(rows, cols); // Adjust rows and columns as needed
