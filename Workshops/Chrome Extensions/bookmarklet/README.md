@@ -24,7 +24,7 @@ First, let's just take what we previously wrote in our URL:
 ```javascript
 javascript:(function(){alert('Hello World')})()
 ```
-and place it into an <a> tag, like so:
+and place it into an `<a>` tag, like so:
 ```javascript
 <a href="javascript:(function(){alert('Hello World')})()">Alert</a>
 ```
@@ -39,7 +39,7 @@ Normally, you'd write your javascript like this:
 })()
 ```
 
-but for the bookmarklet, you need to put the function into the <a> tag, like so: 
+but for the bookmarklet, you need to put the function into the `<a>` tag, like so: 
 ```javascript
  <a href="javascript:(function(){document.body.style.backgroundColor='red';})()">Change background color</a>
 ```
@@ -66,7 +66,7 @@ So, to change all the texts on a webpage, we'd write this:
         });
 })()
 ```
-Now put that into your <a> tag.
+Now put that into your `<a>` tag.
 
 
 ### Change Images
@@ -75,16 +75,10 @@ Now we do the same for images.
 ```javascript
 (function(){
     let images = document.querySelectorAll('img');
-    const newImg = new Image;
-    newImg.src = 'https://upload.wikimedia.org/wikipedia/commons/5/5d/Medium-Eva-Carriere-1912.jpg';
     images.forEach((img) => {
-        img.src = newImg.src;
+        img.src = 'https://upload.wikimedia.org/wikipedia/commons/5/5d/Medium-Eva-Carriere-1912.jpg';
         })
 })()
 ```
 Note: For your image, you need to choose an image with a stable URL hosted somewhere online. You can't just use an image on your computer.
 
-
-```javascript
-
-```

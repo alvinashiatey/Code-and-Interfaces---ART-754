@@ -36,10 +36,8 @@
     <h2>
         <a href="javascript:(function(){
             let images = document.querySelectorAll('img');
-            const newImg=new Image;
-            newImg.src='https://upload.wikimedia.org/wikipedia/commons/5/5d/Medium-Eva-Carriere-1912.jpg';
             images.forEach((img) => {
-                img.src=newImg.src;
+                img.src = 'https://upload.wikimedia.org/wikipedia/commons/5/5d/Medium-Eva-Carriere-1912.jpg';
                 })
         })()">Change images</a>
     </h2>
