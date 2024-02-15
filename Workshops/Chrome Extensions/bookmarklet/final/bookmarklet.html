@@ -24,7 +24,7 @@
             let paragraphs = document.querySelectorAll('p');
             paragraphs.forEach((paragraph) => {
                 paragraph.innerHTML='this is a bookmarklet now';
-                });
+            });
         })()">Change texts</a>
     </h2>
     <p>
@@ -34,11 +34,12 @@
         sample paragraph
     </p>
     <h2>
-        <a href="javascript:(function(){
+        <a href="javascript:
+        (function(){
             let images = document.querySelectorAll('img');
             images.forEach((img) => {
                 img.src = 'https://upload.wikimedia.org/wikipedia/commons/5/5d/Medium-Eva-Carriere-1912.jpg';
-                })
+            })
         })()">Change images</a>
     </h2>
     <img src="villainess.jpeg">
