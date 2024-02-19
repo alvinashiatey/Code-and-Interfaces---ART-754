@@ -2,7 +2,7 @@
 
 Instructor: **Alvin Ashiatey**
 
-Course Assistant: **Siri Lee** Office Hours: (https://calendly.com/siri-lee/office-hours)
+Course Assistant: **Siri Lee** [Office Hours: (https://calendly.com/siri-lee/office-hours)]
 
 ## Statement
 
